@@ -1,0 +1,22 @@
+baseURL = ''
+languageCode = 'en-us'
+title = 'BeaverCDS'
+theme = 'PaperMod'
+
+[[menu.main]]
+identifier = "project"
+name = "Project"
+url = "/project"
+weight = 10
+
+[[menu.main]]
+identifier = "docs"
+name = "Docs"
+url = "/docs"
+weight = 30
+
+[[menu.main]]
+identifier = "personnel"
+name = "Personnel"
+url = "/personnel"
+weight = 20
