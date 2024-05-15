@@ -18,9 +18,9 @@ This is the landing page for the Oregon State University College of Engineering 
 
 Click on the links below to explore more about our projects, documentation, and personnel:
 
-- [Projects](/project): Learn about our project details, challenges, and achievements.
-- [Documentation](/docs): Access documentation and resources related to our projects and technologies.
-- [Personnel](/personnel): Meet our talented team members and their roles in our projects.
+- [Projects](/BeaverCDS-landing/project): Learn about our project details, challenges, and achievements.
+- [Documentation](/BeaverCDS-landing/docs): Access documentation and resources related to our projects and technologies.
+- [Personnel](/BeaverCDS-landing/personnel): Meet our talented team members and their roles in our projects.
 
 Thank you for visiting our site. Feel free to reach out to us with any questions or feedback!
 
