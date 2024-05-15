@@ -1,4 +1,4 @@
-baseURL = 'https://nick-graves.github.io/BeaverCDS-landing/'
+baseURL = 'https://nick-graves.github.io/BeaverCDS-landing'
 languageCode = 'en-us'
 title = 'BeaverCDS'
 theme = 'PaperMod'
