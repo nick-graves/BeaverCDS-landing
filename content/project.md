@@ -15,7 +15,7 @@ The purpose of the BeaverCDS project is to create a robust and flexible deployme
 ## Problem Solved
 The BeaverCDS project resolves significant issues encountered in the rCDS framework, including package dependencies and infrastructure limitations. By transitioning from Google Kubernetes Engine (GKE) to Amazon Elastic Kubernetes Services (EKS), BeaverCDS offers a more reliable and scalable solution. This is particularly beneficial for educational institutions and security clubs hosting large-scale CTF events.
 
-### Case Study
+## Case Study
 The updated BeaverCDS project was utilized during the DamCTF event hosted by the Security Club at OSU. Approximately 200 teams participated, using the software concurrently. The live event highlighted documentation issues, but the robustness of BeaverCDS allowed these challenges to be worked around, demonstrating the effectiveness of the improvements made to the original rCDS framework.
 
 ## Value Proposition
