@@ -8,6 +8,6 @@ draft = false
 # Testing Heading 1
 ## Testing Heading 2
 
-![Image Alt Text](/static/img/scoreboard.png)
+![Image Alt Text](/static/img/scoreboard.PNG)
 
 This would be about our project
