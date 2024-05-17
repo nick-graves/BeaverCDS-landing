@@ -1,6 +1,4 @@
 +++
-title = 'Docs'
-date = 2024-05-14T21:05:09-07:00
 draft = false
 +++
 
