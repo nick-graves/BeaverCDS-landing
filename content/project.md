@@ -8,6 +8,6 @@ draft = false
 # Testing Heading 1
 ## Testing Heading 2
 
-![Image Alt Text](/img/scoreboard.PNG)
+![Image Alt Text](/BeaverCDS-landing/img/scoreboard.PNG)
 
 This would be about our project
