@@ -5,7 +5,7 @@ draft = false
 
 # BeaverCDS (Challenge Deployment System)
 
-![Image Alt Text](/BeaverCDS-landing/img/scoreboard.PNG)
+![Image Alt Text](/img/scoreboard.PNG)
 
 ## Purpose of the Project
 The purpose of the BeaverCDS project is to create a robust and flexible deployment system tailored for Capture The Flag (CTF) events, enhancing the existing rCDS framework by addressing dependency and infrastructure challenges.
@@ -26,11 +26,11 @@ BeaverCDS stands out from the competition due to its:
 ## Contact Information
 For more information about BeaverCDS, please contact:
 - **Ben Lane**  
-  Email: laneben@oregonstate.edu
+  Email: laneben at oregonstate.edu
 - **Kai Morita-McVey**  
-  Email: moritamk@oregonstate.ed
+  Email: moritamk at oregonstate.edu
 - **Nicholas Graves**  
-  Email: gravesn@oregonstate.ed
+  Email: gravesn at oregonstate.edu
 
   
 ## Repository
