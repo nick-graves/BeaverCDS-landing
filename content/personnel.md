@@ -7,6 +7,8 @@ draft = false
 
 ## Project Personnel
 
+---
+
 ### Kai Morita-McVey​
 ![image alt text](/BeaverCDS-landing/img/Kai_pic.PNG)
 **Role:** CoLead engineer/EKS specialist 
