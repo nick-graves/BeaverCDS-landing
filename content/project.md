@@ -37,5 +37,5 @@ For more information about BeaverCDS, please contact:
   
 ## Repository
 The source code for BeaverCDS is available on GitHub:
-[BeaverCDS Repository](https://github.com/osusec/beavercds)
-[BeaverCTF Repository](https://github.com/osusec/beaverctf)
+[BeaverCDS](https://github.com/osusec/beavercds)
+[BeaverCTF](https://github.com/osusec/beaverctf)
