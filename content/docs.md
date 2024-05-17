@@ -8,8 +8,8 @@ Welcome to our documentation!
 
 Please visit our documentation website for detailed information:
 
-[**View Documentation**](https://nick-graves.github.io/BeaverCDS-docs/)
+[**View Documentation**](https://docs.beavercds.info/)
 
 ---
 
-*If you have any questions or need further assistance, feel free to [contact us](https://nick-graves.github.io/BeaverCDS-landing/project/#contact-information).* 
+*If you have any questions or need further assistance, feel free to [contact us](https://beavercds.info/project/#contact-information).* 
